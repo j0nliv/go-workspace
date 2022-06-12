@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes version="1">
+    <note>
+        <to>Tom</to>
+        <from>Jerry</from>
+        <heading>Reminder</heading>
+        <body>Hurry up!</body>
+    </note>
+    <note>
+        <to>Messi</to>
+        <from>Ronaldo</from>
+        <heading>Goal</heading>
+        <body>Whats up!</body>
+    </note>
+    <note>
+        <to>Superman</to>
+        <from>Batman</from>
+        <heading>VS</heading>
+        <body>Come!</body>
+    </note>
+</notes>
